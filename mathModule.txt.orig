@@ -1,0 +1,8 @@
+first line
+second line
+<<<<<<< HEAD
+fourth line by marc
+fourth line by marc
+=======
+third line by sohan
+>>>>>>> sohan
